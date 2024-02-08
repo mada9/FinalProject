@@ -1,0 +1,45 @@
+Data Analysis Review - Due Week 2 Spring (Hard Deadline)
+
+How the project will be done.
+
+No structure, 5 page limit.
+Not a coding exercise, but might need to write some code.
+
+Need to talk about the tools needed to extract the information (Prospector).
+(Maybe do a sample fit with SSDS)
+Identify and describe python module do I need.
+Identify and describe software do I need.
+Install them.
+
+Explain the process of the data anaylsis
+
+How to use formula I need
+How to create the plots I want to use.
+
+A detailed to-do list of the pipeline the data goes through.
+
+Here can add (then need to do more research) and kill ideas.
+
+Demonstrate the real feasibility of the scientific goals
+
+Reference papers that the describe the method. Use papers to suggest plots you want to have or create for your paper (and describe the steps).
+
+A clear data analysis review will call for the creation of a clear to-do list for the project.
+
+
+How to structure it:
+Driven by the scientific goals: I want to answer these questions and this is what I need to do
+OR
+Shopping list method: to do this, I will do that
+OR
+Chronologically: Kick off with images, then step 1, then step 2.
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+After data analysis the proposal is next.
+Proposal is a 4 page (hard limit).
+The proposal establishes the real goals for your project. What is presented in the final paper will be compared to what is proposed.
+
+
+Can reuse words, sentance and other stuff I've already used.
+Self-plagerism is ok!
